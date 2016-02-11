@@ -1,2 +1,2 @@
 # DARP
-Dynamical and Adaptive Radio Protocol (DARP) Model for OMNeT++
+Dynamic and Adaptive Radio Protocol (DARP) Model for OMNeT++
